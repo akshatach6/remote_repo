@@ -1,0 +1,2 @@
+first line in file2
+it's created by dev_B
